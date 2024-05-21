@@ -8,18 +8,18 @@ The Datasets Headers have been removed to preprocess it, but for understanding t
 
 ID ( Not included as it contains no meaning ful info ) 
 
-**Book Length (mins)_overall**
-**Book Length (mins)_avg** 
-**Price_overall** 
-**Price_avg** 
-**Review** 
-**Review 10/10**
-**Minutes Listened**
-**Completion** 
-**Support Requests**
-**Last visited minus Purchase Date**
+**Book Length (mins)_overall**       
+**Book Length (mins)_avg**       
+**Price_overall**       
+**Price_avg**       
+**Review**       
+**Review 10/10**        
+**Minutes Listened**      
+**Completion**         
+**Support Requests**         
+**Last visited minus Purchase Date**         
 
-**Target ( 0 or 1 )**
+**Target ( 0 or 1 )**         
 
 
 # Columns Overview:
