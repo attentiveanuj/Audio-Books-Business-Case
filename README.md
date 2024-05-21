@@ -44,3 +44,6 @@ Conversion: Binary variable indicating if the customer bought another book withi
 Objective:
 
 Build a machine learning model to predict if a customer will purchase another audiobook (classification problem: will buy vs. won't buy).
+
+# Instructions 
+Use Jupyter notebook to run the code and first run the Preprocessing a Dataset jupyter notebook and then the "Solving the bussiness case jupter notebook" 
